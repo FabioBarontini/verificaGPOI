@@ -54,9 +54,9 @@ In questo esercizio dovrete simulare di avere il dono dell’ubiquità e essere 
     c.	Al termine verrà rilascita la verisone 100p3
 4.	## Quarto mese
     a.	Gruppo A: lavora su un branch per una versione innovativa. Due commit e rilasciata versione 200b1 direttamente su branch
-    b.	Gruppo B: lavora su main branch, fa due commit e viene rilasciataversione 100p3
+    b.	Gruppo B: lavora su main branch, fa due commit e viene rilasciata versione 100p4
 5.	## Quinto mese
-    a.	Viene deciso di rendere principale la verisone 200 e lasciare la verisone 100px in un branch separato
-    b.	GruppoA: creerà un branch chiamato 100px dove sarà presente l’attuale codice della 100p3 e porterà il codice del branch 200 sul main branch riportando tutte le commit contenute nel branch
+    a.	Viene deciso di rendere principale la versione 200 e lasciare la versione 100px in un branch separato
+    b.	GruppoA: creerà un branch chiamato 100px dove sarà presente l’attuale codice della 100p4 e porterà il codice del branch 200 sul main branch riportando tutte le commit contenute nel branch
     •	Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash e il repository locale.
 
