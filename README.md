@@ -1,17 +1,6 @@
 # Verifica di laboratorio Git
 
-## Esercizio 1 (4 pt)
-1. Creare una **copia locale** di questo repository .
-1. Creare un nuovo **branch** di lavoro ed effettuare le seguenti **modifiche** al file *.css* (in più commit):
-    1. Modificare il colore di sfondo,
-    1. Modificare la dimensione del paragrafo,
-    1. Modificare l'allineamento del tag *H1*.
-1. Riportare sul main solo la modifica i. e iii.
-1. Allineare il repository remoto su GitHub con le modifiche effettuate.
-1. Risolvere eventuali conflitti.
-1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash.**
-
-## Esercizio 2 (2pt)
+## Esercizio 1 (2pt)
 1. Creare un repository Git in locale.
 1. Effettuare le seguenti **modifiche** (in più commit):
     1. Aggiungere un nuovo file,
@@ -20,12 +9,25 @@
 1. Allineare il repository remoto su GitHub con le modifiche effettuate.
 1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash e il repository locale.**
 
+## Esercizio 2 (4 pt)
+1. Creare una **copia locale** di questo repository .
+1. Creare un nuovo **branch** di lavoro ed effettuare le seguenti **modifiche** al file *.css* (in più commit):
+    1. Modificare il colore di sfondo,
+    1. Modificare la dimensione del paragrafo,
+    1. Modificare l'allineamento del tag *H1*.
+1. Riportare sul main solo la modifica ii. e iii.
+1. Allineare il repository remoto su GitHub con le modifiche effettuate.
+1. Risolvere eventuali conflitti.
+1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash.**
+
 ## Esercizio 3 (2pt)
-1. Creare un repository Git in locale.
+1. Creare una **copia locale** di questo repository .
 1. Effettuare le seguenti **modifiche** (in più commit):
-    1. Aggiungere un nuovo file
-    1. aggiungere una riga con il proprio nome
-    1. Aggiungere una riga con nome e cognome
+    1. aggiungere una riga al file es3 con il proprio nome
+    2. Aggiungere una riga al file es3 con nome e cognome
+1. Prima di eseguire la commit AVVERIRE il docente
+1. Eseguire la commit
+1. Eseguire la Pull del repository
 1. Risolvere eventuali conflitti accettando solo l'ultima operazione
 
 ## Esercizio 4 (10pt)
