@@ -29,6 +29,7 @@
 1. Eseguire la commit
 1. Eseguire la Pull del repository
 1. Risolvere eventuali conflitti accettando solo l'ultima operazione
+1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash e il repository locale.**
 
 ## Esercizio 4 (10pt)
 In questo esercizio dovrete simulare di avere il dono dell’ubiquità e essere contemporaneamente membri sia del gruppo A e dovrete simulare la seguente vita dello sviluppo di un programma
